@@ -1,4 +1,4 @@
-# OrganisationStructure
+# Pschool
 Pschool Project
 
 ## Prerequisites
